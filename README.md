@@ -9,8 +9,8 @@
 
 ### Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/engjango/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/engjango/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/jndgomes/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/jancarauma/)
 
 <!--
 **jndgomes/jndgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=engjango&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jancarauma&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
 </p>
